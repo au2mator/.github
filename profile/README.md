@@ -12,10 +12,6 @@ The Scripts can also be used independently without au2mator. Of course, we would
 - <a href="https://www.au2mator.com/orchestrator/?utm_medium=ReadMe&utm_source=GitHub&utm_campaign=MainReadme&utm_content=Readme">System Center Orchestrator</a>
 - <a href="https://www.au2mator.com/orchestrator/?utm_medium=ReadMe&utm_source=GitHub&utm_campaign=MainReadme&utm_content=Readme">System Center SMA</a>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=au2mator&theme=dark" />
-
-
-
 ![](https://komarev.com/ghpvc/?username=au2mator)
 
 <h3 align="left">Connect with us:</h3>
