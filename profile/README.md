@@ -1,4 +1,4 @@
-[![Header](/GitHubLogo.png "Header")](https://au2mator.com/)
+[![Header](https://github.com/au2mator/.github/blob/main/profile/GitHubLogo.jpg "Header")](https://au2mator.com/)
 
 
 # au2mator Self Service Portal for Microsot Automation
