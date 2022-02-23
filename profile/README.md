@@ -7,10 +7,11 @@ Here is the official GitHub Repo of au2mator Self Service Portal. Here you will 
 The Scripts can also be used independently without au2mator. Of course, we would recommend to use with au2mator :-)
 
 
-- PowerShell
-- Azure Automation
-- System Center Orchestrator
-- System Center SMA
+- <a href="https://www.au2mator.com/Powershell/?utm_medium=ReadMe&utm_source=GitHub&utm_campaign=MainReadme&utm_content=Readme">PowerShell</a>
+- <a href="https://www.au2mator.com/AzureAutomation/?utm_medium=ReadMe&utm_source=GitHub&utm_campaign=MainReadme&utm_content=Readme">Azure Automation</a>
+- <a href="https://www.au2mator.com/orchestrator/?utm_medium=ReadMe&utm_source=GitHub&utm_campaign=MainReadme&utm_content=Readme">System Center Orchestrator</a>
+- <a href="https://www.au2mator.com/orchestrator/?utm_medium=ReadMe&utm_source=GitHub&utm_campaign=MainReadme&utm_content=Readme">System Center SMA</a>
+
 
 <h3 align="left">Connect with us:</h3>
 <p align="left">
