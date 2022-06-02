@@ -1,7 +1,7 @@
 [![Header](https://github.com/au2mator/.github/blob/main/profile/GitHubLogo.jpg "Header")](https://au2mator.com/)
 
 
-# au2mator Self Service Portal for Microsot Automation
+# au2mator Self Service Portal for Microsoft Automation
 
 Here is the official GitHub Repo of au2mator Self Service Portal. Here you will find many examples and "ready to automate" Scripts for an easy start with au2mator. This Scripts should help you start and provide an idea of what you can do with au2mator.
 The Scripts can also be used independently without au2mator. Of course, we would recommend to use with au2mator :-)
