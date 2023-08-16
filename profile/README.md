@@ -10,7 +10,7 @@ The Scripts can also be used independently without au2mator. Of course, we would
 - <a href="https://www.au2mator.com/Powershell/?utm_medium=ReadMe&utm_source=GitHub&utm_campaign=MainReadme&utm_content=Readme">PowerShell</a>
 - <a href="https://www.au2mator.com/AzureAutomation/?utm_medium=ReadMe&utm_source=GitHub&utm_campaign=MainReadme&utm_content=Readme">Azure Automation</a>
 - <a href="https://www.au2mator.com/orchestrator/?utm_medium=ReadMe&utm_source=GitHub&utm_campaign=MainReadme&utm_content=Readme">System Center Orchestrator</a>
-- <a href="https://www.au2mator.com/orchestrator/?utm_medium=ReadMe&utm_source=GitHub&utm_campaign=MainReadme&utm_content=Readme">System Center SMA</a>
+
 
 ![](https://komarev.com/ghpvc/?username=au2mator)
 
